@@ -1,0 +1,6 @@
+{
+  "name": "Samad Thirumana Thagaval Maiyam",
+  "description": "Traditional matrimonial information and family guidance centre serving all religions and communities. Register your matrimonial details and connect via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
